@@ -67,6 +67,7 @@ const add = useMemo(()=>{
        dispatch({type : 'dec'})
       }}>sub buton</button>
       </div>
+      <div>Hello world</div>
       </div>
     </>
   )
